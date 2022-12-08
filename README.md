@@ -1,6 +1,8 @@
 🚀 NUXT3 Template
 =================
 
+<img src="https://images.unsplash.com/photo-1617957718587-60a442884bee" alt="drawing" style="height:10px; width:100vw"/>
+
 Build your next web project with 💪 NUXT3, a powerful and intuitive framework for creating server-rendered Vue.js applications. This template includes the following tools and libraries to help you get started quickly and easily:
 
 -   🌟 Nuxt3: The core framework for building server-rendered Vue.js applications.
