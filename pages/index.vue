@@ -4,15 +4,20 @@
 
 <div class="text-white w-full h-full bg-black rounded-lg p-3 text-3xl capitalize gap-3 flex flex-col justify-center items-center text-right">
     <h3>
+        <Icon name="uil:vuejs-alt" />
     nuxt3
     </h3>
     <h3>
+        <Icon name="uil:icons" />
     iconify
     </h3>
+
     <h3>
+        <Icon name="uil:wind" />
     tailwind
     </h3>
     <h3>
+        <Icon name="uil:triangle" />
     prisma
     </h3>
     
