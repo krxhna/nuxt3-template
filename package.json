@@ -2,7 +2,7 @@
   "private": true,
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "nuxt dev --port=4000",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
@@ -12,5 +12,8 @@
     "nuxt": "3.0.0",
     "nuxt-headlessui": "^1.0.4",
     "nuxt-icon": "^0.1.8"
+  },
+  "dependencies": {
+    "prisma": "^4.7.1"
   }
 }
